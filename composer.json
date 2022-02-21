@@ -1,5 +1,5 @@
 {
-    "name": "fastly/fastly",
+    "name": "edbrown/fastly",
     "description": "A PHP client library for interacting with most facets of the Fastly API.",
     "keywords": [
         "fastly",
